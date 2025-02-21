@@ -1,0 +1,1 @@
+This project allows you to extract text from a PDF document, search for specific keywords within the text, and generate a basic summary of the document. It's designed to help users quickly analyze PDF content by finding relevant sections and summarizing key information.
